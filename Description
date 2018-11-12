@@ -3,3 +3,5 @@ This project uses Naive Bayes algorithm technique to detect user review and clas
 In this project i have used 4 Natural language processing Technique on which i have applied Naive Bayes algorithm and also drawn confusion
 matrix and all important parameter.
 I have used accuracy as a key parameter for analysing my models performance.
+
+I used kaggle.com for amazon data 
