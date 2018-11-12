@@ -1,0 +1,5 @@
+This Project is a case study to identify user response for diffrent amazon products.
+This project uses Naive Bayes algorithm technique to detect user review and classified it as either positive or negative review
+In this project i have used 4 Natural language processing Technique on which i have applied Naive Bayes algorithm and also drawn confusion
+matrix and all important parameter.
+I have used accuracy as a key parameter for analysing my models performance.
